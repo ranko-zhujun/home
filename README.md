@@ -15,7 +15,7 @@ GPL
 5. 后台地址：index.php?r=site/login   
 
 # 代码地址
-码云：https://gitee.com/wuxi_ranko/cms
+码云：https://gitee.com/wx_ranko/home
 
 
 # rewrite设置
