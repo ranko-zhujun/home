@@ -1,0 +1,63 @@
+
+.iconbox-section {
+    overflow: hidden;
+}
+
+.iconbox-section .iconbox {
+    padding: 30px 0;
+}
+
+.iconbox-section .iconbox .icon {
+    margin-bottom: 30px;
+}
+
+.iconbox-section .iconbox .icon i {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    display: inline-block;
+    text-align: center;
+    background: #fff;
+    border-radius: 4px;
+    font-size: 36px;
+}
+
+.iconbox-section .iconbox p {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 30px 0;
+}
+
+.iconbox-section .iconbox .title {
+    font-size: 26px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+
+.counter-section-blank{
+    background:none;
+    overflow: hidden;
+    position: relative;
+}
+.counter-section-blank .icon i {
+    background:#EEEEEE !important;
+}
+.counter-section-blank:before {
+    background: none;
+}
+.counter-section-blank .counter p {
+    color:inherit;
+}
+
+.counter-section-blank .counter .counterUp {
+    color:inherit;
+}
+/*.intro-title,.featured-bg .intro-title{*/
+/*    font-size: 48px;*/
+/*    line-height: 60px;*/
+/*}*/
+/*.intro-desc{*/
+/*    font-size: 20px;*/
+/*    line-height: 48px;*/
+/*}*/

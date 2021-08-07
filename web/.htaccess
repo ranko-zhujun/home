@@ -1,0 +1,5 @@
+Allow from all
+RewriteEngine on
+
+RewriteRule ^(.*)-(.*).html$ index.php?r=site/index&view=$1&id=$2
+RewriteRule ^(.*).html$ index.php?r=site/index&view=$1
