@@ -117,7 +117,7 @@ use yii\helpers\Html;
                     </div>
                     <div class="col-3">
                         <h3 class="footer-titel">赞助我</h3>
-                        <img src="http://static.ranko.cn/www.ranko.cn/alipay.jpg" width="61%">
+                        <img src="https://ranko-cn-static-1251786476.cos.ap-shanghai.myqcloud.com/alipay.jpg" width="61%">
                     </div>
                 </div>
             </div>
